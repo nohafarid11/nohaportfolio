@@ -308,7 +308,7 @@ button.contact-btn{
 	position: relative;
 	width: 100%;
 	min-width: 280px;
-	height: 100%;
+	height: 400px;
 	object-fit: cover;
 	z-index: 2;
 }
